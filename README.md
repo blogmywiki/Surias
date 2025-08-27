@@ -28,6 +28,7 @@ I've provided Surias in various formats which should suit pretty much any emulat
 - esacaped and portable BASIC listings - these are human-readable listings which render the PETSCII graphics and control codes as escape codes and CHR values respectively.
 
 ## What the lines do. (REM table)
+
 140 Set graphics mode.
 158 Set cursor string. (See table of variables)
 250 Set limits (5 and 24) for line 260
