@@ -97,7 +97,7 @@ I've provided Surias in various formats which should suit pretty much any emulat
 
 2170-2420 Random disasters.
 
-## Main variables in vague order of appearance.
+## Main variables in vague order of appearance
 
 Z$ Cursor controls to the bottom of the screen.
 
