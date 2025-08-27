@@ -1,9 +1,6 @@
 # Surias
+<img src="photos/Surias-Giles-listing.jpeg" alt="A black and white photo of me in 1982 studying a program listing with Surias on a PET computer behind" width="300" align="right">
 A Commodore PET BASIC war game written between 1979-1982 by me and my brother Laurie, from an idea by Andrew Shorney.
-
-<img src="photos/Surias-Giles-listing.jpeg" alt="A black and white photo of me in 1982 studying a program listing with Surias on a PET computer behind" width="300">
-
-![A black and white photo of me in 1982 studying a program listing with Surias on a PET computer behind](photos/Surias-Giles-listing.jpeg)
 
 I recently found a hard copy computer printout of the program listing and set about painstakingly typing it back into the VICE Commodore PET eumalator. The graphics were a challenge, as was working out how many spaces to include in the many print statements. There may still be bugs but it seems to be playable, and I'm providing the program in a variety of formats you can load into emulators.
 
