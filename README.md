@@ -59,7 +59,7 @@ I've provided Surias in various formats which should suit pretty much any emulat
 
 450 If enemy armies in a county equal 0 then set reverse field. (Denotes your possesion).
 
-460  If player's armies in county equal O then clear reverse field flag.
+460  If player's armies in county equal 0 then clear reverse field flag.
 
 480-490 If enemy armies in county 6 are less than 60 then continue.
 
