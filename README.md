@@ -8,7 +8,9 @@ It was inspired by playing the board game Diplomacy and a civil war game we had 
 I recently found a hard copy computer printout of the program listing and set about painstakingly typing it back into the VICE Commodore PET eumalator. The graphics were a challenge, as was working out how many spaces to include in the many print statements. There may still be bugs but it seems to be playable, and I'm providing the program in a variety of formats you can load into emulators.
 
 ## How to play
-<img src="photos/Surias-screen-photo.jpeg" alt="A black and white photo of the Surias map on a PET computer screen." width="300" align="right">
+
+<img src="photos/Surias-screen-photo.jpeg" alt="A black and white photo of the Surias map on a PET computer screen." width="200" align="right">
+
 Your objective is to invade and capture the country of Surias.
 - Use manouevre 1 to move armies from county to county. You can only move to adjacent counties, and you can only see how many armies you have - not the enemy.
 - Manouevre 2 starts a battle - anywhere where armies meet!
