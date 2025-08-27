@@ -30,36 +30,69 @@ I've provided Surias in various formats which should suit pretty much any emulat
 ## What the lines do. (REM table)
 
 140 Set graphics mode.
+
 158 Set cursor string. (See table of variables)
+
 250 Set limits (5 and 24) for line 260
+
 260 Set 'S' to a random number between 5 and 24.
+
 270 Set armies in county 7 to 85 + random number between 5 and 24.
+
 290 Set limits for line 300.
+
 300 Set 'T' to a random number between 1 and 9.
+
 310 Set enemy armies in counties 1-10 to 15+S+T-7.
+
 320 Remove any enemy armies from county 7.
+
 340 Reset number of counties in player's possesion.
+
 360 If county in player's possesion then add 1 to QQ.
+
 380 Reset number of counties in computer's possesion.
+
 400 Add 1 to 'G' if county in computer's posession.
+
 430 1 plus the number of counties in player's possesion armies added to player's armies in 7. Do the same to enemy armies in 6.
+
 450 If enemy armies in a county equal 0 then set reverse field. (Denotes your possesion).
+
 460  If player's armies in county equal O then clear reverse field flag.
+
 480-490 If enemy armies in county 6 are less than 60 then continue.
+
 500-540 Chose a random county for enemy to send 10 armies into, from county 6, provided that there are over 60 armies of the enemy in county 6.
+
 560 Turn screen off. (Old ROMs only).
+
 570-850 Map graphics.
+
 860 Turn screen back on. (Old ROMs only)
+
 900-920 Tests for seasonal messages,
+
 1020-1040 Test for illegal inputs.
+
 1050-1070 Stops player moving armies too far away from county 7.
+
 1090 Time delay.
+
 1230 Time delay.
+
 1250-1290 Tests to check if a battle should take place.
+
 1300-1310 Subtract appropriate losses.
+
 1360-1450 Table for screen flashing POKE locations.
+
 1640-1730 Ditto.
+
 1460-1500 Poke random characters onto screen.
+
 1740-1780 Ditto.
+
 1580 Test for stalemate after a battle.
+
 2170-2420 Random disasters.
