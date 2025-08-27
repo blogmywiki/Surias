@@ -96,3 +96,63 @@ I've provided Surias in various formats which should suit pretty much any emulat
 1580 Test for stalemate after a battle.
 
 2170-2420 Random disasters.
+
+## Main variables in vague order of appearance.
+
+Z$ Cursor controls to the bottom of the screen.
+
+V(X) No. of player's armies in county X.
+
+N(X) No. of enemy armies in county X.
+
+B$(X) Flag for ownership of county X.
+
+NA$ Player's surname.
+
+A & B Limits for 'S'
+
+S Random number between 5 and 24. (added to 85).
+
+L Used in FOR loop (1-10).
+
+T Random number between 1 and 9 (lines 300, 310).
+
+X & Y Limits for 'T'.
+
+QQ Number of counties in player's posession.
+
+KL Used in FOR loop (1-10) (lines 350-370).
+
+G No. of counties in enemy's possession.
+
+CX Used in FOR loop (1-10) (lines 440, 470).
+
+AG & BL Limits for CD.
+
+CD Random number between 1 and 10.
+
+NJ Manoeuvres used.
+
+MA Current manoeuvre number.
+
+F Number of 'from' county.
+
+T Number of 'to' county.
+
+Q Quantity of armies to be moved.
+
+AA & BB Limits for CC.
+
+CC Random number between 1 and 255 (for random flashing on screen).
+
+FX Used in FOR loop. (1-50) (lines 1740-1780).
+
+XX Used in time delay FOR loop.
+
+XY$ Reply to "another game?" question.
+
+PY & MO Limits for ZA.
+
+ZA If ZA = 1, then a disaster happens. (1 in 20 chance).
+
+LI & PE Limits for 71, (between 1 and 3).
