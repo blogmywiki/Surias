@@ -3,7 +3,7 @@
 
 A Commodore PET BASIC war game written between 1979-1982 by me and my brother Laurie, from an idea by Andrew Shorney.
 
-It was inspired by playing the board game Diplomacy and a civil war game we had for the PET in the late 1970s. You can read more about its genesis in [an article I wrote at the time](Surias – writing a program can be fun! | Blog My Wiki!.pdf), intended for publication in a magazine like Printout but, I think, never submitted.
+It was inspired by playing the board game Diplomacy and a civil war game we had for the PET in the late 1970s. You can read more about its genesis in [an article I wrote at the time](docs/Surias-writing-a-program-can-be-fun-Blog-My-Wiki.pdf), intended for publication in a magazine like Printout but, I think, never submitted.
 
 I recently found a hard copy computer printout of the program listing and set about painstakingly typing it back into the VICE Commodore PET eumalator. The graphics were a challenge, as was working out how many spaces to include in the many print statements. There may still be bugs but it seems to be playable, and I'm providing the program in a variety of formats you can load into emulators.
 
