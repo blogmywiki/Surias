@@ -9,7 +9,7 @@ I recently found a hard copy computer printout of the program listing and set ab
 
 ## How to play
 
-<img src="photos/Surias-screen-photo.jpeg" alt="A black and white photo of the Surias map on a PET computer screen." width="200" align="right">
+<img src="photos/Surias-screen-photo.jpeg" alt="A black and white photo of the Surias map on a PET computer screen." width="300" align="right">
 
 Your objective is to invade and capture the country of Surias.
 - Use manouevre 1 to move armies from county to county. You can only move to adjacent counties, and you can only see how many armies you have - not the enemy.
